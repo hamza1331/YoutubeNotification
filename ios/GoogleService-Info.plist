@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>711920313008-7mrnjpchv0111ungheeuicfalgbbakgq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.711920313008-7mrnjpchv0111ungheeuicfalgbbakgq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaqgYc0dUbnDhvMCOzbBFSn790oZkWTDE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>711920313008</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.thinksolutionz.adsense</string>
+	<key>PROJECT_ID</key>
+	<string>crimepract</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crimepract.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:711920313008:ios:593f4ce1189489a0</string>
+	<key>DATABASE_URL</key>
+	<string>https://crimepract.firebaseio.com</string>
+</dict>
+</plist>

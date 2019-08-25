@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "711920313008",
+    "firebase_url": "https://crimepract.firebaseio.com",
+    "project_id": "crimepract",
+    "storage_bucket": "crimepract.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711920313008:android:4a172b70f0331a7b",
+        "android_client_info": {
+          "package_name": "com.adsense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711920313008-bv3rem169p6rftee6gs4cioc3tcuvqgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adsense",
+            "certificate_hash": "88b134f9ce3ea24ae9a849f3c7269465ade09ccc"
+          }
+        },
+        {
+          "client_id": "711920313008-l22uos154qneo0lonabkmd5gk27keb9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhO4Iu1XY51juR_sWjlRQkDLt6o82lqFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711920313008-l22uos154qneo0lonabkmd5gk27keb9q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "711920313008-7mrnjpchv0111ungheeuicfalgbbakgq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thinksolutionz.adsense"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-6938707447888789~4669481981"
+    }
+  ],
+  "configuration_version": "1"
+}
